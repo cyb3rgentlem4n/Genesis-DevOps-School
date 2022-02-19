@@ -19,11 +19,11 @@ sudo docker-compose up
 
 ### Порти:
 
-Wordpress - 8000
-MySQL - 3306
-phpMyAdmin - 3333
-MailHog Web UI - 8025
-SMTP server - 1025
+Wordpress - 8000;
+MySQL - 3306;
+phpMyAdmin - 3333;
+MailHog Web UI - 8025;
+SMTP server - 1025.
 
 
 
